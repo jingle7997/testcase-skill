@@ -1,0 +1,7 @@
+__MACOSX/
+.DS_Store
+*.pyc
+__pycache__/
+.env
+*.tmp
+~$*
