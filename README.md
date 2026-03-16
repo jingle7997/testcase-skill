@@ -58,7 +58,7 @@ doc-based-testcase-generator/
 │   ├── performance-testcases-standard.md
 │   └── automation-testcases-standard.md
 ├── docs/                    # 示例输出
-│   └── 登录功能测试用例_参考柠檬班模板.md
+│   └── 登录功能测试用例_参考模板.md
 └── scripts/                 # 辅助脚本
     └── export_login_testcases_to_excel.py
 ```
